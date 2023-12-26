@@ -7,8 +7,8 @@ Full Stack Developer
 As a software engineer, I am passionate about using technology to solve complex problems and improve people's lives. Throughout my experiences, I have developed a strong foundation in programming concepts, software development methodologies, and best practices for building high-quality, scalable applications. Logical and results-driven full stack developer dedicated to building and optimizing user-focused websites and applications. Judicious and creative when crafting effective websites, apps and platforms to propel competitive advantage and revenue growth. Technically proficient and analytical problem solver with calm and focused demeanor, and I enjoy keeping up to date with the latest trends and updates. In addition to my technical skills, I am a strong communicator and collaborator, with a proven track record of working effectively in cross-functional teams. I am always eager to learn from others and share my knowledge and expertise to help create innovative solutions that exceed expectations. Overall, I am a dedicated, detail-oriented software engineer with a passion for using technology to create meaningful, impactful solutions. I am excited to continue developing my skills and contributing to the success of innovative projects in the field of software engineering.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [MyPortfolio](http://portfolio-richdede.vercel.app)
-* ✉️  You can contact me at [deeprince2002@gmail.com](mailto:deeprince2002@gmail.com)
+* 🖥️  See my portfolio at [MyPortfolio](https://dedeportfolio.vercel.app/)
+* ✉️  You can contact me at [dede@craftspace.tech](mailto:dede@craftspace.tech)
 * 🚀  I'm currently working on [Business](http://craftspace.tech)
 * 🧠  I'm learning a new framework, exploring new technologies and developing software solutions. Learning more about Fullstack Software Engineer, Systems Design, Web3 and Artificial Intelligence.
 * 🤝  I'm open to collaborating on interesting project
